@@ -2,4 +2,4 @@ streamlit
 numpy
 joblib
 pillow
-cv2
+opencv-python-contrib-headless
