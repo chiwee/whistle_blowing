@@ -1,5 +1,5 @@
 streamlit
 numpy
 joblib
-pillow
-opencv-python-contrib-headless
+Pillow
+opencv-python
